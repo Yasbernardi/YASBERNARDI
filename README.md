@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/Yasbernardi">
+  <a href="https://github.com/Yasbernardi?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasbernardi&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasbernardi&layout=compact&theme=radical"/>
 </div>
