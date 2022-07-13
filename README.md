@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=180&section=header&text=Yasmim Bernardi&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=35"/> 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=180&section=header&text=Yasmim Bernardi&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=35"/> 
   
 <div align="center">
   <a href="https://github.com/Yasbernardi?tab=repositories">
